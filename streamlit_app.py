@@ -6,3 +6,4 @@ streamlit.text('kale ,spinach & rocket smoothie')
 streamlit.text('hard-boiled egg')
 streamlit.text('chocolates')
 streamlit.header('🍇build your 🍌🥭first smoothie🍇')
+import pandas
